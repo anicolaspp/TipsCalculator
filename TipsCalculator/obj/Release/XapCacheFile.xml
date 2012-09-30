@@ -1,0 +1,15 @@
+﻿<xapCache source="C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Release\TipsCalculator.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="9/29/2012 6:16:48 PM">
+  <file source="C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Release\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="9/26/2012 2:32:55 PM" />
+  <file source="C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Background.png" archivePath="Background.png" lastWriteTime="9/29/2012 4:56:26 PM" />
+  <file source="C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="9/29/2012 4:42:43 PM" />
+  <file source="C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\obj\Release\TipsCalculator.dll" archivePath="TipsCalculator.dll" lastWriteTime="9/29/2012 6:16:47 PM" />
+  <file source="C:\Program Files\Microsoft SDKs\Advertising for Phone\Libraries\Microsoft.Advertising.Mobile.dll" archivePath="Microsoft.Advertising.Mobile.dll" lastWriteTime="11/1/2011 1:51:14 PM" />
+  <file source="C:\Program Files\Microsoft SDKs\Advertising for Phone\Libraries\Microsoft.Advertising.Mobile.UI.dll" archivePath="Microsoft.Advertising.Mobile.UI.dll" lastWriteTime="11/1/2011 1:51:16 PM" />
+  <file source="C:\Program Files\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="3/19/2012 4:29:06 PM" />
+  <file source="C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\packages\SilverlightToolkitWP.4.2012.6.25\lib\sl4-windowsphone71\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="9/19/2012 4:15:21 PM" />
+  <file source="C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\packages\YLAD.2.0.0\lib\sl40-wp71\YourLastAboutDialog.dll" archivePath="YourLastAboutDialog.dll" lastWriteTime="9/27/2012 1:12:15 PM" />
+  <file source="C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Content\About\AboutStyles.xaml" archivePath="Content\About\AboutStyles.xaml" lastWriteTime="9/27/2012 1:12:17 PM" />
+  <file source="C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Content\About\Data.xml" archivePath="Content\About\Data.xml" lastWriteTime="9/27/2012 1:12:16 PM" />
+  <file source="C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="9/26/2012 2:07:26 PM" />
+  <file source="C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="9/29/2012 4:13:57 PM" />
+</xapCache>

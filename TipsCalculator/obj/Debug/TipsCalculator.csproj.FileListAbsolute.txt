@@ -1,0 +1,73 @@
+C:\Users\nperez\Documents\Visual Studio 2010\Projects\TipsCalculator\TipsCalculator\Bin\Debug\ApplicationIcon.png
+C:\Users\nperez\Documents\Visual Studio 2010\Projects\TipsCalculator\TipsCalculator\Bin\Debug\Background.png
+C:\Users\nperez\Documents\Visual Studio 2010\Projects\TipsCalculator\TipsCalculator\Bin\Debug\TipsCalculator.dll
+C:\Users\nperez\Documents\Visual Studio 2010\Projects\TipsCalculator\TipsCalculator\Bin\Debug\TipsCalculator.pdb
+C:\Users\nperez\Documents\Visual Studio 2010\Projects\TipsCalculator\TipsCalculator\Bin\Debug\AppManifest.xaml
+C:\Users\nperez\Documents\Visual Studio 2010\Projects\TipsCalculator\TipsCalculator\Bin\Debug\TipsCalculator.xap
+C:\Users\nperez\Documents\Visual Studio 2010\Projects\TipsCalculator\TipsCalculator\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\nperez\Documents\Visual Studio 2010\Projects\TipsCalculator\TipsCalculator\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\nperez\Documents\Visual Studio 2010\Projects\TipsCalculator\TipsCalculator\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\nperez\Documents\Visual Studio 2010\Projects\TipsCalculator\TipsCalculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nperez\Documents\Visual Studio 2010\Projects\TipsCalculator\TipsCalculator\obj\Debug\App.g.cs
+C:\Users\nperez\Documents\Visual Studio 2010\Projects\TipsCalculator\TipsCalculator\obj\Debug\MainPage.g.cs
+C:\Users\nperez\Documents\Visual Studio 2010\Projects\TipsCalculator\TipsCalculator\obj\Debug\TipsCalculator.g.resources
+C:\Users\nperez\Documents\Visual Studio 2010\Projects\TipsCalculator\TipsCalculator\obj\Debug\TipsCalculator.dll
+C:\Users\nperez\Documents\Visual Studio 2010\Projects\TipsCalculator\TipsCalculator\obj\Debug\TipsCalculator.pdb
+C:\Users\nperez\Documents\Visual Studio 2010\Projects\TipsCalculator\TipsCalculator\obj\Debug\XapCacheFile.xml
+Z:\Dropbox\Projects\TipsCalculator\TipsCalculator\Bin\Debug\ApplicationIcon.png
+Z:\Dropbox\Projects\TipsCalculator\TipsCalculator\Bin\Debug\Background.png
+Z:\Dropbox\Projects\TipsCalculator\TipsCalculator\Bin\Debug\TipsCalculator.dll
+Z:\Dropbox\Projects\TipsCalculator\TipsCalculator\Bin\Debug\TipsCalculator.pdb
+Z:\Dropbox\Projects\TipsCalculator\TipsCalculator\Bin\Debug\AppManifest.xaml
+Z:\Dropbox\Projects\TipsCalculator\TipsCalculator\Bin\Debug\TipsCalculator.xap
+Z:\Dropbox\Projects\TipsCalculator\TipsCalculator\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+Z:\Dropbox\Projects\TipsCalculator\TipsCalculator\Bin\Debug\Microsoft.Phone.Controls.dll
+Z:\Dropbox\Projects\TipsCalculator\TipsCalculator\Bin\Debug\Microsoft.Phone.Controls.xml
+Z:\Dropbox\Projects\TipsCalculator\TipsCalculator\obj\Debug\TipsCalculator.csprojResolveAssemblyReference.cache
+Z:\Dropbox\Projects\TipsCalculator\TipsCalculator\obj\Debug\App.g.i.cs
+Z:\Dropbox\Projects\TipsCalculator\TipsCalculator\obj\Debug\MainPage.g.i.cs
+Z:\Dropbox\Projects\TipsCalculator\TipsCalculator\obj\Debug\TipsCalculator.g.resources
+Z:\Dropbox\Projects\TipsCalculator\TipsCalculator\obj\Debug\TipsCalculator.dll
+Z:\Dropbox\Projects\TipsCalculator\TipsCalculator\obj\Debug\TipsCalculator.pdb
+Z:\Dropbox\Projects\TipsCalculator\TipsCalculator\obj\Debug\XapCacheFile.xml
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\obj\Debug\TipsCalculator.g.resources
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\obj\Debug\TipsCalculator.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\Background.png
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\TipsCalculator.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\TipsCalculator.pdb
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\AppManifest.xaml
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\TipsCalculator.xap
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\obj\Debug\TipsCalculator.pdb
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\obj\Debug\XapCacheFile.xml
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\YourLastAboutDialog.dll
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Debug\YourLastAboutDialog.xml
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\obj\Debug\App.g.cs
+C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\obj\Debug\MainPage.g.cs
