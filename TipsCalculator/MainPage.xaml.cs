@@ -94,18 +94,18 @@ namespace TipsCalculator
             }
         }
 
-        public string SlideValue
-        {
-            get { return _slideValue; }
-            set
-            {
-                _slideValue = value;
+        //public string SlideValue
+        //{
+        //    get { return _slideValue; }
+        //    set
+        //    {
+        //        _slideValue = value;
 
-                InvokeOnPropertyChanged(new PropertyChangedEventArgs("SlideValue"));
+        //        InvokeOnPropertyChanged(new PropertyChangedEventArgs("SlideValue"));
                 
-                //
-            }
-        }
+        //        //
+        //    }
+        //}
 
         private bool CurrentThemeIsDark
         {
@@ -129,7 +129,7 @@ namespace TipsCalculator
         }
 
         private int value = 1;
-        private string _slideValue;
+        //private string _slideValue;
         private string _pv = "Person";
 
         public int Value 
@@ -228,6 +228,8 @@ namespace TipsCalculator
 
         private void percerntSlide_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
+            if (percentTextBlock != null)
+                percentTextBlock.Text = ((int) slider1.Value).ToString();
            if (textBlock1 != null && textBlock1.Text != "")
                Calc(textBlock1.Text, (int)slider1.Value, int.Parse(peoplePicker.Text));
         }

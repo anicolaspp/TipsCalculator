@@ -73,7 +73,7 @@
             </Grid.ColumnDefinitions>
             <Canvas Grid.ColumnSpan="2" Height="65" Margin="7,6,4,0" VerticalAlignment="Top">
         		<TextBlock Height="65" HorizontalAlignment="Left" x:Name="textBlock1" Text="0" Width="228" Opacity="10" Cursor="Arrow"  FontSize="60" TextAlignment="Center" FontFamily="Segoe WP Bold" Canvas.Left="58"/>
-                <TextBlock Height="30" HorizontalAlignment="Left" x:Name="percentTextBlock" Text="{Binding Value, ElementName=slider1, Mode=TwoWay, Converter={StaticResource RoundConverter}}" Width="35" TextAlignment="Center" Canvas.Left="352" Canvas.Top="31" />
+                <TextBlock Height="30" HorizontalAlignment="Left" x:Name="percentTextBlock"  Width="35" TextAlignment="Center" Canvas.Left="352" Canvas.Top="31" />
                 <TextBlock TextWrapping="Wrap" Text="%" Canvas.Left="389" Canvas.Top="32" Width="25" Height="29"/>
                 <TextBlock TextWrapping="Wrap" Text="$" Canvas.Top="1" Width="55" Height="62" FontSize="48" FontWeight="Bold" TextAlignment="Center" />
         	</Canvas>
