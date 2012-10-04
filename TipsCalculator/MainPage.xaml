@@ -215,7 +215,7 @@
             		</Button.Background>
             	</Button>
             </Canvas>
-            <!--<my:AdControl AdUnitId="10045362" ApplicationId="0c4cd6f0-2434-4f8b-8d54-68ed8acde2d2" Height="50" HorizontalAlignment="Center" Grid.ColumnSpan="2" x:Name="adControl1" VerticalAlignment="Bottom" Width="454" Margin="-1,0,3,6" />-->
+            <my:AdControl AdUnitId="10045362" ApplicationId="0c4cd6f0-2434-4f8b-8d54-68ed8acde2d2" Height="50" HorizontalAlignment="Center" Grid.ColumnSpan="2" x:Name="adControl1" VerticalAlignment="Bottom" Width="454" Margin="-1,0,3,6" />
             <TextBlock Grid.Column="1" Height="30" Margin="91,515,39,0" Name="textBlock2" Text="{Binding PV}" VerticalAlignment="Top" />
         </Grid>
     </Grid>
