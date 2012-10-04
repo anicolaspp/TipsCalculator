@@ -39,3 +39,44 @@ C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\R
 C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
 C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Release\YourLastAboutDialog.dll
 C:\Users\nperez\Documents\Visual Studio 2010\TipsCalculator\TipsCalculator\Bin\Release\YourLastAboutDialog.xml
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\Background.png
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\TipsCalculator.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\TipsCalculator.pdb
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\AppManifest.xaml
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\TipsCalculator.xap
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\Microsoft.Advertising.Mobile.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\YourLastAboutDialog.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\YourLastAboutDialog.xml
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\obj\Release\App.g.i.cs
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\obj\Release\MainPage.g.i.cs
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\obj\Release\TipsCalculator.g.resources
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\obj\Release\TipsCalculator.dll
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\obj\Release\TipsCalculator.pdb
+C:\Users\nperez\Dropbox\Projects\Windows Phone\TipsCalculator\TipsCalculator\obj\Release\XapCacheFile.xml
